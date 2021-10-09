@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @kristofer-78
+- 👀 I’m interested in data science & machine learning
+- 🌱 I’m currently a grad student at CCSU working on my masters in actuarial science
+- 📫 How to reach me kristofer.hormoz@gmail.com
